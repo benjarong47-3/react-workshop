@@ -2,7 +2,7 @@
 import React, { useState, useContext } from 'react';
 import { TodoContext } from './contexts/TodoContext';
 
-function TodoForm() { // รับฟังก์ชัน addTodo มาจาก props
+function TodoForm() {
     const { addTodo } = useContext(TodoContext);
     const [inputValue, setInputValue] = useState('');
 
