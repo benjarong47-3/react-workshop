@@ -1,4 +1,4 @@
-# React Workshop Starter 🚀
+# React Workshop Starter 🚀 [Demo](https://reactpromini.netlify.app/)
 
 โปรเจกต์เริ่มต้น (Starter) สำหรับเวิร์กช็อป React ที่สร้างด้วย Vite เน้นความเร็วในการพัฒนาด้วย Hot Module Replacement (HMR) และมีโครงสร้างที่เรียบง่าย น้ำหนักเบา เหมาะสำหรับการเรียนรู้และทดลอง
 
@@ -39,6 +39,8 @@
 
 ## 📂 โครงสร้างโปรเจกต์ (Project Structure)
 
+```text
+
 ├── .gitignore
 ├── README.md
 ├── eslint.config.js
@@ -58,7 +60,9 @@
 │   ├── contexts
 │   ├── index.css
 │   └── main.jsx
-└── vite.config.js  
+└── vite.config.js 
+
+```
 
 ---
 
